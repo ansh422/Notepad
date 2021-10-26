@@ -1,10 +1,17 @@
 # Notepad
-A simple Notepad app, with features like 
-* Creating a note, 
-* Saving it, 
-* Loading it, 
-* Deleting it, 
-* and lastly Sharing it.
+
+A simple Notepad android app, having CRED ( Create, Read, Edit, Delete) features.
+
+### Languages Used
+
+* Java
+* XML
+
+### Software Used -> Android Studio
+
+
+
+
 
 ## Contribution Rule
-> If you have any feature you want to add , or modify, open up an issue and it will be assigned if it is accepted
+> If you have anything you want to include here, just create a PR with a description of what you have included.
